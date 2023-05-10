@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import pickle
-
 st.write("""
 # Heart disease Prediction App
 
