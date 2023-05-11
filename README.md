@@ -4,6 +4,9 @@ the jupyter notebook is to create the ML model and the app.py is for the streaml
 
 
 Steps to run this application in your system
+
 1.Clone or download the repo.
+
 2.Open command prompt in the downloaded folder.
+
 3.Run the application by streamlit run app.py 
