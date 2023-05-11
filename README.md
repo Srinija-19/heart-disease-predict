@@ -10,3 +10,5 @@ Steps to run this application in your system
 2.Open command prompt in the downloaded folder.
 
 3.Run the application by streamlit run app.py 
+
+Check out the live demo of my project on predicting heart disease using machine learning at https://heart-disease-prediction-1.onrender.com/
